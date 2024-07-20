@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">OnClick</string>
+    <string name="btn_name">Login</string>
+    <string name="sign_in_wit">Sign in with your registered email and Password.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_pass">Forgot Password</string>
+    <string name="enter_the_e">Enter the email associated with your account and \u000D\nwe\'ll send the instructions to reset  your password</string>
+    <string name="reset_passw">Reset Password</string>
+    <string name="newUserText">Are You New User? Register</string>
+    <string name="enter_your_">Enter your current password and new password</string>
+    <string name="change_pass">Change Password</string>
+    <string name="edit_profil">Edit Profile</string>
+    <string name="new_user">New</string>
+    <string name="new_project">New Project</string>
+    <string name="profile">Profile</string>
+    <string name="chat">Chat</string>
+    <string name="home">Home</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="logout">Logout</string>
+    <string name="search">Search</string>
+    <string name="services">Services</string>
+    <string name="post">Post</string>
+    <string name="about">About</string>
+
+    <string name="apiKey">AIzaSyAnCEh9g8RmYW3AUUYM6oLFdBqfZcdisMQ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
